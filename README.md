@@ -1,7 +1,7 @@
 # GroupAlarm Box Integration für Home Assistant
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-![GitHub all releases](https://img.shields.io/github/downloads/DasAuryn/ha-groupalarm-box/total)
+![GitHub all releases](https://img.shields.io/github/downloads/groupalarm/box-ha/total)
 ## Hinweise
 
 - Diese Integration **provisioniert** die GroupAlarm Box automatisch mit deinen Home-Assistant-MQTT-Einstellungen (Broker/Port/User/Pass/Prefix).
@@ -28,7 +28,7 @@ Die Box veröffentlicht danach:
 > (typisch: `homeassistant`). Wenn du hier z. B. `groupalarmbox` verwendest, muss Home Assistant ebenfalls diesen Prefix nutzen.
 
 ## Installation
-  [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=DasAuryn&repository=ha-groupalarm-box&category=Integration)
+  [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=groupalarm&repository=box-ha&category=Integration)
 ### Option A: HACS (empfohlen)
 
 1. HACS öffnen
@@ -100,8 +100,8 @@ Siehe: [`LICENSE`](LICENSE)
 
 ---
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/DasAuryn/ha-groupalarm-box?style=for-the-badge
-[commits]: https://github.com/DasAuryn/ha-groupalarm-box/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/groupalarm/box-ha?style=for-the-badge
+[commits]: https://github.com/groupalarm/box-ha/commits/main
 [hacs]: https://github.com/custom-components/hacs
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
-[license-shield]: https://img.shields.io/github/license/DasAuryn/ha-groupalarm-box?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/groupalarm/box-ha?style=for-the-badge
