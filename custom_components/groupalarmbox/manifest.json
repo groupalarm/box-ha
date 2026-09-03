@@ -1,11 +1,11 @@
 {
   "domain": "groupalarmbox",
-  "name": "GroupAlarmBox",
+  "name": "GroupAlarm Box",
   "version": "1.0.0",
   "config_flow": true,
-  "documentation": "https://github.com/DasAuryn/ha-groupalarm-box",
-  "issue_tracker": "https://github.com/DasAuryn/ha-groupalarm-box/issues",
-  "codeowners": ["@DasAuryn"],
+  "documentation": "https://github.com/groupalarm/box-ha/",
+  "issue_tracker": "https://github.com/groupalarm/box-ha/issues",
+  "codeowners": ["@groupalarm"],
   "iot_class": "local_push",
   "dependencies": ["mqtt"],
   "zeroconf": [
