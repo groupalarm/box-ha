@@ -1,23 +1,23 @@
-SMART PSA PUBLIC USE LICENSE (NO DERIVATIVES, NO REDISTRIBUTION)
+CUBOS-INTERNET GMBH PUBLIC USE LICENSE (NO DERIVATIVES, NO REDISTRIBUTION)
 Version 1.0 — 2025-10-22
 
-Copyright (c) 2025 Smart PSA GmbH. All rights reserved.
+Copyright (c) 2025 cubos Internet GmbH. All rights reserved.
 
 IMPORTANT — This is a source-available proprietary license. It is NOT an open‑source license.
 By downloading, installing, copying, or using the Software, you agree to be bound by this License.
 
 1. DEFINITIONS
 1.1 “Software” means the GroupAlarmBox Home Assistant Add-on and all associated source code,
-     object code, scripts, templates, configuration files, and assets made available by Smart PSA GmbH
+     object code, scripts, templates, configuration files, and assets made available by cubos Internet GmbH
      in the official repository specified in Section 3.2, including any Updates (Section 6).
 1.2 “You” means the individual or legal entity exercising rights under this License.
-1.3 “Official Repository” means the public repository operated by or for Smart PSA GmbH hosting
+1.3 “Official Repository” means the public repository operated by or for cubos Internet GmbH hosting
      the Software (e.g., the canonical Git repository and its release artifacts).
-1.4 “Update” means any modification or new release of the Software that Smart PSA GmbH
+1.4 “Update” means any modification or new release of the Software that cubos Internet GmbH
      chooses to make available under this License.
 
 2. GRANT OF RIGHTS (FREE USE)
-Subject to the terms and conditions of this License, Smart PSA GmbH grants You a
+Subject to the terms and conditions of this License, cubos Internet GmbH grants You a
 worldwide, royalty‑free, non‑exclusive, non‑transferable, revocable license to:
   (a) download the Software from the Official Repository;
   (b) install and run the Software in unmodified form on any number of devices and for any purpose
@@ -31,10 +31,10 @@ worldwide, royalty‑free, non‑exclusive, non‑transferable, revocable licens
 3.2 No Redistribution. You may not redistribute, sublicense, sell, rent, lease, lend, timeshare,
     host, publish, mirror, or otherwise make the Software available to third parties, in whole or in part,
     including via package repositories, app stores, or mirrors. Third parties must obtain the Software
-    only by downloading it directly from the Official Repository designated by Smart PSA GmbH.
+    only by downloading it directly from the Official Repository designated by cubos Internet GmbH.
 3.3 No Circumvention. You may not remove or alter any copyright, trademark, or proprietary notices,
     or technical protection measures included in the Software.
-3.4 Trademarks. This License does not grant any rights to use Smart PSA GmbH names, logos,
+3.4 Trademarks. This License does not grant any rights to use cubos Internet GmbH names, logos,
     or trademarks.
 
 4. PERMITTED SHARING
@@ -43,17 +43,17 @@ Automated installation that fetches the Software directly from the Official Repo
 (e.g., Home Assistant add-on installation that pulls from the official source).
 
 5. FEEDBACK AND CONTRIBUTIONS
-If You submit feedback or contributions, You grant Smart PSA GmbH a perpetual, irrevocable,
+If You submit feedback or contributions, You grant cubos Internet GmbH a perpetual, irrevocable,
 worldwide, royalty‑free license to use, reproduce, prepare derivative works of, and otherwise
 exploit such feedback or contributions without restriction and without any obligation to You.
 
 6. UPDATES
-Smart PSA GmbH may, but is not obligated to, provide Updates. Updates are governed by this License
-unless Smart PSA GmbH specifies otherwise. Your continued use of Updates constitutes acceptance of
+cubos Internet GmbH may, but is not obligated to, provide Updates. Updates are governed by this License
+unless cubos Internet GmbH specifies otherwise. Your continued use of Updates constitutes acceptance of
 the then‑current license terms.
 
 7. OWNERSHIP
-The Software is licensed, not sold. Smart PSA GmbH and its licensors retain all right, title,
+The Software is licensed, not sold. cubos Internet GmbH and its licensors retain all right, title,
 and interest in and to the Software and all copies thereof.
 
 8. WARRANTY DISCLAIMER
@@ -62,9 +62,9 @@ INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PA
 TITLE, AND NON‑INFRINGEMENT. YOUR USE OF THE SOFTWARE IS AT YOUR SOLE RISK.
 
 9. LIMITATION OF LIABILITY
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL SMART PSA GMBH OR ITS LICENSORS BE LIABLE
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL cubos Internet GmbH OR ITS LICENSORS BE LIABLE
 FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR ANY LOSS OF
-PROFITS, REVENUE, DATA, OR USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SMART PSA GMBH’S
+PROFITS, REVENUE, DATA, OR USE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. cubos Internet GmbH’S
 AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE SHALL NOT EXCEED EUR 100.
 
 10. TERMINATION
@@ -80,7 +80,7 @@ This License is governed by the laws of Germany, excluding its conflict‑of‑l
 all disputes arising out of or relating to this License shall be the courts located in Köln, Germany.
 
 13. ENTIRE AGREEMENT; SEVERABILITY
-This License constitutes the entire agreement between You and Smart PSA GmbH regarding the Software.
+This License constitutes the entire agreement between You and cubos Internet GmbH regarding the Software.
 If any provision is held unenforceable, it will be amended to the minimum extent necessary to be enforceable,
 and the remainder will continue in full force and effect.
 
