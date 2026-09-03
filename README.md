@@ -96,7 +96,7 @@ Prüfe:
 Dieses Projekt ist **source-available**, aber **nicht Open Source**.
 
 Siehe: [`LICENSE`](LICENSE)
-(SMART PSA PUBLIC USE LICENSE – No Derivatives, No Redistribution)
+(CUBOS INTERNET GMBH PUBLIC USE LICENSE – No Derivatives, No Redistribution)
 
 ---
 
