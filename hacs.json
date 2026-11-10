@@ -1,6 +1,4 @@
 {
-  "name": "GroupAlarmBox",
-  "content_in_root": false,
-  "domain": "groupalarmbox",
-  "render_readme": true
+  "name": "GroupAlarm Box",
+  "content_in_root": false
 }
