@@ -1,15 +1,14 @@
 {
   "domain": "groupalarmbox",
   "name": "GroupAlarm Box",
-  "version": "1.0.0",
-  "config_flow": true,
-  "documentation": "https://github.com/groupalarm/box-ha/",
-  "issue_tracker": "https://github.com/groupalarm/box-ha/issues",
   "codeowners": ["@groupalarm"],
-  "iot_class": "local_push",
+  "config_flow": true,
   "dependencies": ["mqtt"],
+  "documentation": "https://github.com/groupalarm/box-ha",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/groupalarm/box-ha/issues",
+  "version": "1.0.2",
   "zeroconf": [
-    { "type": "_http._tcp.local.", "name": "groupalarmbox*" },
-    { "type": "_http._tcp.local.", "name": "GroupAlarmBox*" }
+    { "type": "_http._tcp.local.", "name": "groupalarmbox*" }
   ]
 }
